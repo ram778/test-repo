@@ -1,2 +1,2 @@
 # test-repo
-Demo for class
+A simple test. Demo for class
